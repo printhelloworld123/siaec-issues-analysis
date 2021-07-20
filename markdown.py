@@ -1,6 +1,6 @@
 # Markdown Text #
 
-markdown_text_page_1_section_1_1 = '''
+markdown_text_page_1_section_1 = '''
 There was an anomalous increase in booking mismatches between 17 May to 31 May. 
 This was due to backend issues leading to the loss of precision in stored address coordinates. 
 This issue has been resolved. Since 31 May, the daily mismatch rate has been reduced to 
@@ -49,7 +49,7 @@ markdown_text_page_2_section_1_5 = '''
 4) Compare the onemap_postal and offer_postal to ascertain the match
 '''
 
-markdown_text_page_2_section_2_1 = '''
+markdown_text_page_2_section_2 = '''
 Download the files used for analysis here. 
 Bookings CSV contains data of all bookings made from 1 May to 19 July.
 Addresses CSV contains data of all user's saved addresses from 1 May to 19 July
